@@ -24,6 +24,9 @@ see a single movie
 
 use a search bar
 
+## Deployment
+[CinemaQuest](https://bhaddad1.github.io/cinemaquest/)
+
 
 ## Tech/framework used
 
